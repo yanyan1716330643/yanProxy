@@ -1,0 +1,26 @@
+{
+  "name": "yanProxy",
+  "version": "0.0.1",
+  "main": "./bin/yanProxy",
+  "scripts": {
+    "start": "node ./bin/yyproxy.js"
+  },
+  "description": "this is a simple proxy server",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "proxy",
+    "simple"
+  ],
+  "bin": {
+    "yanProxy": "./bin/yanProxy"
+  },
+  "author": "yanyan",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "~1.16.2"
+  }
+}
