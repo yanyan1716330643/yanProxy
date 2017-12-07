@@ -32,6 +32,6 @@ module.exports = [
 ];
 ```
 
-## auth
+## author
 
 yanyan

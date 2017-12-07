@@ -1,6 +1,6 @@
 {
   "name": "yanproxy",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "./bin/yanProxy",
   "scripts": {
     "start": "node ./bin/yyProxy.js"
