@@ -1,14 +1,14 @@
 
-##description
+## description
 
 it is so light and simple todo server proxy.just need a proxyConfig.js file to set proxy.
-##installation
+## installation
 
 ```$xslt
 npm install yanproxy
 ```
 
-##usage
+## usage
 
 ```$xslt
 yproxy proxyConfig.js
@@ -32,6 +32,6 @@ module.exports = [
 ];
 ```
 
-##auth
+## auth
 
 yanyan
