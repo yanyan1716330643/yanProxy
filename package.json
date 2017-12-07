@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "./bin/yanProxy",
   "scripts": {
-    "start": "node ./bin/yyproxy.js"
+    "start": "node ./bin/yyProxy.js"
   },
   "description": "this is a simple proxy server",
   "repository": {
