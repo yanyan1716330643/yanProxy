@@ -1,7 +1,7 @@
 
 ## description
 
-it is so light and simple todo server proxy.just need a proxyConfig.js file to set proxy.
+It's so light and simple todo server proxy. Just need a proxyConfig.js file to set proxy.
 ## installation
 
 ```$xslt
